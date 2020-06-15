@@ -1,0 +1,5 @@
+name: "Action Playground"
+  description: "Template to test action features"
+runs:
+  using: "node12"
+  main: "index.js"

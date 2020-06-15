@@ -1,0 +1,23 @@
+{
+  "name": "action-playground",
+  "version": "1.0.0",
+  "description": "A template to test out GitHub Action Ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomadamatkinson/action-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomadamatkinson/action-playground/issues"
+  },
+  "homepage": "https://github.com/tomadamatkinson/action-playground#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^3.0.0"
+  }
+}
